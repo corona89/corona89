@@ -7,7 +7,7 @@ import { useEffect, useState, useRef} from "react";
 
 export default function Home() {
   const auths = [
-    {"auth" : "Bearer app-3vNaoN0iddChSRYy6gX2zzug", "name" : "claue 3.7"},
+    {"auth" : "Bearer app-7jaBals1zqvqp1BWpop7kRro", "name" : "claue 3.7"},
     {"auth" : "Bearer app-M7LtOpMBBUxZi9JCxB4tshY3", "name" : "gpt 4.1"},
   ]
   const [ items, setItems] = useState([
